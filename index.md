@@ -27,7 +27,7 @@ Hello! I'm a passionate developer with experience in web technologies. I love cr
 
 ## 📫 Contact Me
 - *Email:* your.email@example.com
-- *GitHub:* [akindu-indu](https://github.com/PamudiHansani)
+- *GitHub:* [PamudiHansani](https://github.com/PamudiHansani)
 
 ---
 Built with ❤ using GitHub Pages
