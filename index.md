@@ -8,6 +8,7 @@ layout: default
 # Pamudi Hansani
 *BSc Biotechnology Undergraduate – SLIIT*
 
+
 ##  About Me
 Hello, I am Pamudi Hansani, a first-year Biotechnology student at the Sri Lanka Institute of Information Technology (SLIIT). I completed my secondary education in the Science stream, focusing on Biology, Chemistry, and Physics, at Debarawewa Central College. I am passionate about exploring biotechnology innovations and developing practical laboratory skills. I am eager to contribute to research projects and enhance my knowledge in molecular biology and biotechnology applications.
 
@@ -27,6 +28,7 @@ Hello, I am Pamudi Hansani, a first-year Biotechnology student at the Sri Lanka 
 
 ## Work Experience
 - No formal work experience yet. I am focusing on building my skills and knowledge in biotechnology through academic projects and laboratory work.
+
 
 ## Other Professional Qualifications
 - Completed an online course in English Language (2024)
@@ -65,6 +67,7 @@ Hello, I am Pamudi Hansani, a first-year Biotechnology student at the Sri Lanka 
 - Listening to music and engaging in creative activities for relaxation.
 - Volunteering and helping in community-based activities (if applicable).
 
+
 ## PDF
 <a href="Job CV.pdf"> View </a>
 
@@ -73,5 +76,4 @@ Hello, I am Pamudi Hansani, a first-year Biotechnology student at the Sri Lanka 
 - *Email:* gkpamudihansani20@gmail.com
 - *GitHub:* [PamudiHansani](https://github.com/PamudiHansani)
 
----
-Built with ❤ using GitHub Pages
+
