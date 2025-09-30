@@ -11,4 +11,4 @@ github_username: akindu-indu
 
 # Build settings
 markdown: kramdown
-permalink : pretty
+permalink: pretty
