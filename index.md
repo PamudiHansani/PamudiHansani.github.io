@@ -3,6 +3,8 @@ title: "Your Name - Portfolio"
 layout: default
 ---
 
+<img src="/aaa.jpg" alt="My Photo" style="border-radius: 50%; width: 200px; height: 200px; object-fit: cover;">
+
 # Pamudi Hansani
 *Web Developer & Designer*
 
