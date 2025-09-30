@@ -3,7 +3,7 @@ title: "Your Name - Portfolio"
 layout: default
 ---
 
-# Your Name
+# Pamudi Hansani
 *Web Developer & Designer*
 
 ## 👋 About Me
