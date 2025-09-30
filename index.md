@@ -18,6 +18,9 @@ Hello! I'm a passionate developer with experience in web technologies. I love cr
 
 ## 💼 Projects
 
+## PDF
+<a href="Job CV.pdf"> </a>
+
 ## Education
   - AL's
   - OL's
