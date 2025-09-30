@@ -16,6 +16,10 @@ Hello! I'm a passionate developer with experience in web technologies. I love cr
 
 ## 💼 Projects
 
+## Education
+  - AL's
+  - OL's
+
 ### Project 1: Personal Portfolio
 - *Description:* A responsive portfolio website built with GitHub Pages
 - *Tech:* Jekyll, Markdown, CSS
