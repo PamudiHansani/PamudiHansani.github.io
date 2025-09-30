@@ -1,7 +1,4 @@
  ---
-title: "Academic & Professional Portfolio – Pamudi Hansani"
-layout: default
----
 
 <img src="/WhatsApp Image 2025-09-30 at 14.42.47_215fc5db.jpg" alt="My Photo" style="border-radius: 50%; width: 200px; height: 200px; object-fit: cover;">
 
